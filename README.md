@@ -21,6 +21,7 @@ LeetCode 前 300 题解
 |  88  |                    MergeSortedArray                     |
 | 238  |              Product of Array Except Self               |
 | 240  |                  Search a 2D Matrix II                  |
+
 **BackTracking & DFS & BFS**
 |  #   |        Title         |
 | :--: | :------------------: |
@@ -33,6 +34,7 @@ LeetCode 前 300 题解
 |  79  |     Word Search      |
 | 130  |  Surrounded Regions  |
 | 200  |  Number of Islands   |
+
 **Binary Search**
 |  #   |                  Title                  |
 | :--: | :-------------------------------------: |
@@ -44,6 +46,7 @@ LeetCode 前 300 题解
 |  69  |                 Sqrt(x)                 |
 | 153  |  Find Minimum in Rotated Sorted Array   |
 | 154  | Find Minimum in Rotated Sorted Array II |
+
 **Bit Operation**
 |  #   |       Title       |
 | :--: | :---------------: |
@@ -52,11 +55,13 @@ LeetCode 前 300 题解
 | 191  | Number of 1 Bits  |
 | 260  | Single Number III |
 | 289  |   Game of Life    |
+
 **Disjoint Set**
 |  #   |            Title             |
 | :--: | :--------------------------: |
 | 128  | Longest Consecutive Sequence |
 | 547  |        Friend Circles        |
+
 **Dynamic Programming**
 |  #   |              Title              |
 | :--: | :-----------------------------: |
@@ -80,16 +85,23 @@ LeetCode 前 300 题解
 | 466  |      Count The Repetitions      |
 | 509  |        Fibonacci Number         |
 | 887  |         Super Egg Drop          |
+
 **Greedy**
 |  #   |    Title     |
 | :--: | :----------: |
 |  45  | Jump Game II |
 |  55  |  Jump Game   |
+
 **Hash Table**
 |  #   |      Title       |
 | :--: | :--------------: |
 | 169  | Majority Element |
 | 460  |    LFU Cache     |
+
+**Heap**
+| # | Title |
+| :-: | :-: |
+
 **Linked List**
 |  #   |               Title                |
 | :--: | :--------------------------------: |
@@ -106,6 +118,7 @@ LeetCode 前 300 题解
 | 206  |        Reverse Linked List         |
 | 234  |       Palindrome Linked List       |
 | 445  |         Add Two Numbers II         |
+
 **Math**
 |  #   |        Title        |
 | :--: | :-----------------: |
@@ -122,6 +135,7 @@ LeetCode 前 300 题解
 | 258  |     Add Digits      |
 | 263  |     Ugly Number     |
 | 400  |      Nth Digit      |
+
 **Sliding Window**
 |  #   |             Title             |
 | :--: | :---------------------------: |
@@ -129,11 +143,13 @@ LeetCode 前 300 题解
 |  76  |   Minimum Window Substring    |
 | 239  |    Sliding Window Maximum     |
 | 438  | Find All Anagrams in a String |
+
 **Sort**
 |  #   |      Title      |
 | :--: | :-------------: |
 |  56  | Merge Intervals |
 | 912  |  Sort an Array  |
+
 **Stack and Queue**
 |  #   |              Title               |
 | :--: | :------------------------------: |
@@ -146,6 +162,7 @@ LeetCode 前 300 题解
 | 225  |   Implement Stack using Queues   |
 | 232  |   Implement Queue using Stacks   |
 | 946  |     Validate Stack Sequences     |
+
 **String**
 |  #   |                     Title                      |
 | :--: | :--------------------------------------------: |
@@ -154,6 +171,7 @@ LeetCode 前 300 题解
 |  14  |             Longest Common Prefix              |
 |  28  |               Implement strStr()               |
 | 151  |           Reverse Words in a String            |
+
 **Tree**
 |  #   |                           Title                            |
 | :--: | :--------------------------------------------------------: |
@@ -175,6 +193,7 @@ LeetCode 前 300 题解
 | 145  |              Binary Tree Postorder Traversal               |
 | 226  |                     Invert Binary Tree                     |
 | 572  |                  Subtree of Another Tree                   |
+
 **Two Pointers**
 |  #   |    Title    |
 | :--: | :---------: |
